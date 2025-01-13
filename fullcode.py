@@ -48,8 +48,6 @@ while True:
     
     
 
-#    cv2.polylines(frame,[np.array(area1,np.int32)],True,(255,0,255),2)
-#    cv2.polylines(frame,[np.array(area2,np.int32)],True,(255,0,255),2)
 
     # Display the frame
     cv2.imshow("FRAME", frame)

@@ -14,7 +14,7 @@ names = model.names
 
 
 # Open the video file or webcam
-cap = cv2.VideoCapture('6.mp4')
+cap = cv2.VideoCapture('')
 
 
 while True:
